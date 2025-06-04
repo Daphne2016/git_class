@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Git intoduction"
+=======
+"git updated t a new version"
+>>>>>>> d9945fea1e512f046dde41352674ca2d1c945f3a
